@@ -17,11 +17,11 @@ The following are our official chat rooms.
 | [Java](https://gitter.im/FreeCodeCamp/java) | get help doing our back end projects in Java, from your fellow campers |
 | [Ruby](https://gitter.im/FreeCodeCamp/ruby) | get help doing our back end projects in Ruby, from your fellow campers |
 | [PHP](https://gitter.im/FreeCodeCamp/php) | get help doing our back end projects in PHP, from your fellow campers |
-| [Git](https://gitter.im/FreeCodeCamp/Git) | get help related to everything about Git Version Control, from your fellow campers |
 | [Go](https://gitter.im/FreeCodeCamp/go) | get help doing our back end projects in Go, from your fellow campers |
 | [Elixir](https://gitter.im/FreeCodeCamp/elixir) | get help doing our back end projects in Elixir, from your fellow campers |
 | [.NET](https://gitter.im/FreeCodeCamp/dotnet) | get help doing our back end projects in Microsoft .NET framework, from your fellow campers |
 | [C++](https://gitter.im/FreeCodeCamp/cplusplus) | get help doing our back end projects in C++, from your fellow campers |
+| [Vagrant](https://gitter.im/FreeCodeCamp/vagrant) | get help doing our back end projects using our vagrant boxes |
 | [CodeReview](https://gitter.im/freecodecamp/CodeReview) | give and receive constructive feedback from your fellow campers on your projects |
 | [YouCanDoThis](https://gitter.im/freecodecamp/YouCanDoThis) | learning to code is hard - share your feelings and get moral support here |
 | [CodingJobs](https://gitter.im/freecodecamp/CodingJobs) | chat about the process of getting a coding job, such as portfolios, networking, and interviewing |
@@ -29,6 +29,6 @@ The following are our official chat rooms.
 | [CurriculumDevelopment](https://gitter.im/freecodecamp/CurriculumDevelopment) | help us improve our open source curriculum |
 | [DataScience](https://gitter.im/freecodecamp/DataScience) | help us understand our gigs and gigs of public data |
 
-By joining these chat rooms, you accept our [Code of Conduct](Code-of-Conduct).
+By joining these chat rooms, you accept our [Code of Conduct](FreeCodeCamp-Code-Of-Conduct).
 
-If you also want to hang out with other campers in person, be sure to join a [Campsite in your city](List-of-Free-Code-Camp-city-based-Campsites).
+If you also want to hang out with other campers in person, be sure to join a [Local Group in your city](LocalGroups-List).

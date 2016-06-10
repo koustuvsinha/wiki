@@ -1,6 +1,8 @@
 # Requirements to become a wiki Moderator
 
-There are many ways to contribute to the [wiki](Wiki) without being part of the [Senior Group](Wiki-Senior-Mods). However, if you want to become one, there are certain requirements that you must meet first:
+There are many ways to contribute to the [wiki](Wiki-Central) without being part of the [Senior Group](Wiki-Senior-Mods). However, if you want to become one, there are certain requirements that you must meet first:
+
+##  
 
 - **Be Active:** You must have been actively contributing to the wiki. This means:
 
@@ -11,7 +13,7 @@ There are many ways to contribute to the [wiki](Wiki) without being part of the 
 
   You don't have to complete all of them but the most you check from this list the better your chances are. This shows that you are interested and committed and not just helping briefly and then vanish.
 
-- **Know your domain:** You must have a decent command of [Git](Git-Resources) command line and desktop app, along with enough experience submitting pull request that are fully compliant with our [guidelines](PULL_REQUEST_TEMPLATE). This means you also need to be familiar with [contributing from a browser](Wiki-Contribute-Online). This will show that you can handle your own and help other with any issues they might have with their pull request and using Git/github.
+- **Know your domain:** You must have a decent knowledge of the [Git](Git) command line and desktop app, along with enough experience submitting pull request that are fully compliant with our [guidelines](PULL_REQUEST_TEMPLATE). This means you also need to be familiar with [contributing from a browser](Wiki-Contribute-Online). This will show that you can handle your own and help other with any issues they might have with their pull request and using Git/github.
 
 - **Reach out:** Once you have completed the requirements from steps one and two, feel free to contact [Rafase282](https://gitter.im/Rafase282) and kindly ask to join. Chances are that you are already well known whiting the wiki community and he has approached you first. If that is not the case then don't hesitate to show what you can bring to the team.
 

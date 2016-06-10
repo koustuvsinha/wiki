@@ -1,4 +1,4 @@
-# In Windows
+# Adding Envirioment Variables in Windows
 
 ### Via GUI
 
@@ -6,8 +6,8 @@
 2. Open Varpanel.
 3. In PATH variable, add the relevant path (for example).
 
-![](http://i.imgur.com/RqgGcf5.gif)
+![](https://i.imgur.com/RqgGcf5.gif)
 
-## Via Command Line
+### Via Command Line
 
 Refer to [this answer](http://superuser.com/a/284351/275797) on Super User.

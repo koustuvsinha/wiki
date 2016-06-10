@@ -1,8 +1,6 @@
 # .NET Framework
 
-![.NET Logo][logo]
-
-[logo]: https://cloud.githubusercontent.com/assets/5607371/13464681/4b7ca26a-e0b8-11e5-961b-b87dbb971364.png
+![.NET Logo](https://cloud.githubusercontent.com/assets/5607371/13464681/4b7ca26a-e0b8-11e5-961b-b87dbb971364.png)
 
 [.NET Framework](https://www.microsoft.com/net) or simply, .NET is a multi-purpose multi-language runtime framework; created and owned by [Microsoft](https://www.microsoft.com).
 

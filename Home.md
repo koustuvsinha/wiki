@@ -3,12 +3,12 @@
 Our open source community's Wiki focuses on answering your questions about learning to code and getting a coding job. We also cover in detail our:
 
 - Curriculum
-- Local Campsite Communities
+- Local Group Communities
 - Nonprofit Projects
 
-![An illustration of CamperBot](http://i.imgur.com/gyJwzkx.png)
+![An illustration of CamperBot](https://i.imgur.com/gyJwzkx.png)
 
-The best way to access this wiki is via [CamperBot](camperbot), located in our Gitter channels. CamperBot is a community designed tool useful for accessing our wiki content without ever leaving Gitter.
+The best way to access this wiki is via [CamperBot](CamperBot), located in our Gitter channels. CamperBot is a community designed tool useful for accessing our wiki content without ever leaving Gitter.
 
 ## Contributing to the Wiki
 
@@ -22,13 +22,13 @@ One code solution per category. If we already have enough solutions and yours is
 
 If you want to contribute but have no idea what you would like to contribute then feel free to check the open issues we have with request for articles or fixes to them [here.](https://github.com/FreeCodeCamp/wiki/issues)
 
-We welcome **any technology relate articles**, not just JavaScript related or Curriculum specific. However, we do ask that you write them in third person instead of first person perspective. We also welcome articles in **other languages**, and welcome **translations** of current articles.
+We welcome **any technology related articles**, not just JavaScript related or Curriculum specific. However, we do ask that you write them in third person instead of first person perspective. We also welcome articles in **other languages**, and welcome **translations** of current articles.
 
 If we merge your pull request, your name will be automatically added to the document history on GitHub, and the repo's contributors. Please don't add additional bylines when creating or editing an article.
 
 ### Guides on how to Contribute
 
-They are all located on our [Wiki Central](Wiki) Page. Please take a look before anything else.
+They are all located on our [Wiki Central](Wiki-Central) Page. Please take a look before anything else.
 
 If you have questions about contributing to the Free Code Camp Wiki message [@Rafase282 in Gitter](https://gitter.im/Rafase282) or come the [Gitter Wiki Room.](https://gitter.im/FreeCodeCamp/Wiki)
 

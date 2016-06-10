@@ -1,4 +1,6 @@
-![A table showing which JavaScript arguments are true and false.](http://i.stack.imgur.com/35MpY.png)
+# JavaScript Truth Table
+
+![A table showing which JavaScript arguments are true and false.](https://i.stack.imgur.com/35MpY.png)
 
 This is why you should always use `===` and `!==`.
 

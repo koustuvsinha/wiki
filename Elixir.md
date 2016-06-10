@@ -1,8 +1,6 @@
-### Elixir
+# Elixir
 
-![Elixir Logo][logo]
-
-[logo]: https://cloud.githubusercontent.com/assets/5607371/13459772/d6b9b740-e09b-11e5-9e15-c6a2962cedd2.png
+![Elixir Logo](https://cloud.githubusercontent.com/assets/5607371/13459772/d6b9b740-e09b-11e5-9e15-c6a2962cedd2.png)
 
 [Elixir](http://elixir-lang.org/) is a [dynamically typed](https://en.wikipedia.org/wiki/Type_system#Dynamic_type_checking_and_runtime_type_information), [functional programming language](https://en.wikipedia.org/wiki/Functional_programming) which uses [Erlang](https://www.erlang.org/) VM.
 
